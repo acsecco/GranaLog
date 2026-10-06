@@ -6,15 +6,15 @@
 |---|---|
 | `arquitetura` | Não iniciado |
 | `design-system` | Não iniciado |
-| `historias-de-usuario` | Não iniciado |
+| `historias-de-usuario` | Preenchido (v2) |
 | `requisitos` | Preenchido (v1) |
 
 
 ## Problema e Público
 
-**Problema**: Universitários com rotina corrida entre trabalho e estudo abandonam planilhas e anotações de gastos, porque mantê-las atualizadas toma tempo demais.
+**Problema:** Universitários com rotina corrida entre trabalho e estudo abandonam planilhas e anotações de gastos, porque mantê-las atualizadas toma tempo demais.
 
-**Usuário principal**: Estudantes universitários que administram o próprio dinheiro, seja mesada, bolsa, salário de estágio ou de emprego em tempo integral.
+**Usuário principal:** Estudantes universitários que administram o próprio dinheiro, seja mesada, bolsa, salário de estágio ou de emprego em tempo integral.
 
 ## Requisitos funcionais
 
